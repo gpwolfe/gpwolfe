@@ -1,3 +1,4 @@
+![](/images/IMG_5557.jpeg)
 ### Gregory Wolfe
   
 I parse, analyze and visualize scientific data, specifically in the area of biochemistry.

@@ -12,7 +12,7 @@ I'm currently interested in applying machine learning to experimental data to le
 Hiking and swimming are some of my favorites.  
   
     
-![gpwolfe's stats](https://github-readme-stats.vercel.app/api?username=gpwolfe&count_private=true&show_icons=true&hide=stars,issues&theme=algolia&custom_title=Github%20Stats%line_height=30&card_width=300)
+![gpwolfe's stats](https://github-readme-stats.vercel.app/api?username=gpwolfe&count_private=true&show_icons=true&hide=stars,issues&theme=algolia&custom_title=Github%20Stats&line_height=30&card_width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpwolfe&layout=compact&theme=algolia&hide=procfile)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=CLEANEX_experiment&theme=algolia&border_color=1172a6)](https://github.com/anuraghazra/github-readme-stats)

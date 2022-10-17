@@ -20,7 +20,8 @@ Hiking and swimming are some of my favorites.
 </a>
 <a href="https://github.com/gpwolfe/kratky_rg_izero">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=kratky_rg_izero&theme=algolia&border_color=1172a6" />
-</a>
+</a></div>
+<div align="center">
 <a href="https://github.com/gpwolfe/zns_corpus">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=zns_corpus&theme=algolia&border_color=1172a6" />
 </a>

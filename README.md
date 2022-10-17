@@ -13,6 +13,7 @@ Hiking and swimming are some of my favorites.
   
 <p>
 <div align="center">
+<span>
 <h3 align="center"> My recent work: </h3>
 <a href="https://github.com/gpwolfe/CLEANEX_experiment">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=CLEANEX_experiment&theme=algolia&border_color=1172a6" />
@@ -20,15 +21,16 @@ Hiking and swimming are some of my favorites.
 </a>
 <a href="https://github.com/gpwolfe/kratky_rg_izero">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=kratky_rg_izero&theme=algolia&border_color=1172a6" />
-</a></div>
-<div align="center">
+</a></span>
+<span align="center">
 <a href="https://github.com/gpwolfe/zns_corpus">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=zns_corpus&theme=algolia&border_color=1172a6" />
 </a>
 <a href="https://github.com/gpwolfe/twitoff-DS41">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=twitoff-DS41&theme=algolia&border_color=1172a6" />
 </a>
-</div>
+</span>
+</div
 </p>
   
   
@@ -36,10 +38,12 @@ Hiking and swimming are some of my favorites.
 
 <p>
 <div align="center">
+<span>
 <a> 
 <img src="https://github-readme-stats.vercel.app/api?username=gpwolfe&count_private=true&show_icons=true&hide=stars,issues&theme=algolia&custom_title=Github%20Stats&line_height=30&border_color=1172a6&card_width=400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpwolfe&theme=algolia&hide=procfile&card_width=400&border_color=1172a6" />
 </a>
+</span>
 </div>
 </p>
   

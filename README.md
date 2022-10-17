@@ -7,13 +7,14 @@ Data Analysis | Machine Learning
 <br />
 <br />
 
-* :abacus: Parsing, analyzing and visualizing scientific data in the domain of biochemistry.
+ :abacus: - Parsing, analyzing and visualizing scientific data in the domain of biochemistry.
 
-* :microscope: Currently interested in applying machine learning to experimental data  
+ :microscope: - Currently interested in applying machine learning to experimental data  
   
-* :mountain: Hiking and swimming are some of my favorites.  
+ :mountain: - Hiking and swimming are some of my favorites.  
 <br />
-:postbox: Feel free to contact me: wolfe.gregory.p@gmail.com
+<br />
+ :postbox: - Feel free to contact me: wolfe.gregory.p@gmail.com
 <br />
 <br />
 <h3 align="center"> My recent work: </h3>

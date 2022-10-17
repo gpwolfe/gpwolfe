@@ -3,13 +3,16 @@
 ### Gregory Wolfe
   
   
-email: wolfe.gregory.p@gmail.com
   
 I parse, analyze and visualize scientific data, specifically in the area of biochemistry.
 
 I'm currently interested in applying machine learning to experimental data to let academic researchers find unsuspected correlations and draw stronger conclusions.  
   
 Hiking and swimming are some of my favorites.  
+  
+  
+Feel free to contact me: wolfe.gregory.p@gmail.com
+
   
 <h3 align="center"> My recent work: </h3>
 <p float="middle">

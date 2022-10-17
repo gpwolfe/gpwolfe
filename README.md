@@ -3,17 +3,19 @@
 ### Gregory Wolfe
   
   
-  
-I parse, analyze and visualize scientific data, specifically in the area of biochemistry.
+Data Analysis | Machine Learning
+<br />
+<br />
 
-I'm currently interested in applying machine learning to experimental data to let academic researchers find unsuspected correlations and draw stronger conclusions.  
-  
-Hiking and swimming are some of my favorites.  
-  
-  
-Feel free to contact me: wolfe.gregory.p@gmail.com
+* :abacus: Parsing, analyzing and visualizing scientific data in the domain of biochemistry.
 
+* :microscope: Currently interested in applying machine learning to experimental data  
   
+* :mountain: Hiking and swimming are some of my favorites.  
+<br />
+:postbox: Feel free to contact me: wolfe.gregory.p@gmail.com
+<br />
+<br />
 <h3 align="center"> My recent work: </h3>
 <p float="middle">
 <div align="center">
@@ -66,6 +68,15 @@ Feel free to contact me: wolfe.gregory.p@gmail.com
 <a target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%2312100E.svg?logo=scipy&style=for-the-badge&logoColor=blue""/></a>
 <a target="_blank"><img alt="SpaCy" src="https://img.shields.io/badge/SpaCy-%2312100E.svg?logo=spacy&style=for-the-badge&logoColor=blue""/></a>
 <a target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2312100E.svg?logo=sqlite&style=for-the-badge&logoColor=blue""/></a>
-
-
+</p>
+  
+  
+<h3 align="center">Where I am:</h3>
+<p align="center">
+<a 
+href="https://github.com/gpwolfe" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub:%20You%20Are%20Here-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=blue" /></a>
+<a 
+href="https://www.linkedin.com/in/wolfegregoryp/" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />
 </p>

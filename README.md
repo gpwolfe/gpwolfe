@@ -11,26 +11,23 @@ I'm currently interested in applying machine learning to experimental data to le
   
 Hiking and swimming are some of my favorites.  
   
-<p>
-<div align="center">
-<span>
 <h3 align="center"> My recent work: </h3>
+<p float="center">
+<div align="center">
 <a href="https://github.com/gpwolfe/CLEANEX_experiment">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=CLEANEX_experiment&theme=algolia&border_color=1172a6" />
 
 </a>
 <a href="https://github.com/gpwolfe/kratky_rg_izero">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=kratky_rg_izero&theme=algolia&border_color=1172a6" />
-</a></span>
-<span align="center">
+</a>
 <a href="https://github.com/gpwolfe/zns_corpus">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=zns_corpus&theme=algolia&border_color=1172a6" />
 </a>
 <a href="https://github.com/gpwolfe/twitoff-DS41">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=twitoff-DS41&theme=algolia&border_color=1172a6" />
 </a>
-</span>
-</div
+</div>
 </p>
   
   

@@ -23,24 +23,24 @@ Data Analysis | Machine Learning
   
 ### My recent work
 
-<a href="https://github.com/gpwolfe/CLEANEX_experiment"><img width="400" align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=CLEANEX_experiment&theme=algolia&border_color=1172a6" /></a>
+<a href="https://github.com/gpwolfe/CLEANEX_experiment"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=CLEANEX_experiment&theme=algolia&border_color=1172a6" /></a>
 <a href="https://github.com/gpwolfe/kratky_rg_izero">
-  <img width="400" align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=kratky_rg_izero&theme=algolia&border_color=1172a6" />
+  <img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=kratky_rg_izero&theme=algolia&border_color=1172a6" />
 </a>
-<a href="https://github.com/gpwolfe/zns_corpus"><img width="400" align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=zns_corpus&theme=algolia&border_color=1172a6" />
+<a href="https://github.com/gpwolfe/zns_corpus"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=zns_corpus&theme=algolia&border_color=1172a6" />
 </a>
 <a href="https://github.com/gpwolfe/twitoff-DS41">
-  <img width="400" align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=twitoff-DS41&theme=algolia&border_color=1172a6" />
+  <img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=twitoff-DS41&theme=algolia&border_color=1172a6" />
 </a>
 
-<a href="https://github.com/gpwolfe/ctf"><img width="400" align="center" valign="top" src="https://github-readme-stats.vercel.app/api/pin/?username=gpwolfe&repo=ctf&theme=algolia&border_color=1172a6" />
+<a href="https://github.com/gpwolfe/ctf"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=ctf&theme=algolia&border_color=1172a6" />
 </a>
 <br />
 <br />
 
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=gpwolfe&count_private=true&show_icons=true&hide=stars,issues&theme=algolia&custom_title=Github%20Stats&line_height=30&border_color=1172a6&card_width=400" /></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpwolfe&theme=algolia&hide=procfile&card_width=400&border_color=1172a6" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gpwolfe&count_private=true&show_icons=true&hide=stars,issues&theme=algolia&custom_title=Github%20Stats&line_height=30&border_color=1172a6&card_width=400" /></a>
+<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gpwolfe&theme=algolia&hide=procfile&card_width=400&border_color=1172a6" /></a>
 <br />
 <br />
   

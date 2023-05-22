@@ -5,7 +5,7 @@
 Data Analysis | Machine Learning
 <br />
 <br />
- :abacus: - Parsing, analyzing and visualizing scientific data in the domain of biochemistry.
+ :abacus: - Parsing, analyzing and visualizing scientific data.
 
  :microscope: - Currently interested in applying machine learning to experimental data  
   

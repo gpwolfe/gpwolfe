@@ -1,40 +1,33 @@
 <img src="/images/IMG_5557.jpeg" alt="The Mountains of Tucson" width="100%"/>  
 
-### Gregory Wolfe
+### Gregory Wolfe 
+<details>
+<summary><b>email</b></summary>
+
+wolfe.gregory.p@gmail.com
+
+</details>
+<details>
+<summary><b>current projects</b></summary>  
   
-Data Analysis | Machine Learning
-<br />
-<br />
- :abacus: - Parsing, analyzing and visualizing scientific data.
-
- :microscope: - Currently interested in applying machine learning to experimental data  
+<a href="https://materials.colabfit.org/" target="_blank">The ColabFit Exchange</a>: An online repository to store and access data for machine learning interatomic potentials (MLIPs)  
   
- :mountain: - Hiking and swimming are some of my favorites.  
-<br />
-<br />
- :postbox: - Feel free to contact me: wolfe.gregory.p@gmail.com
-<br />
-<br />
+<a href="https://github.com/colabfit/" target="_blank">ColabFit on GitHub</a>: Tools to access data from / submit data to the ColabFit Exchange
 
-
+</details>
 
   
 <div align="center">
   
-### My recent work
-
+<a href="https://github.com/gpwolfe/colabfit"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=colabfit&theme=algolia&border_color=1172a6" />
+</a>
 <a href="https://github.com/gpwolfe/CLEANEX_experiment"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=CLEANEX_experiment&theme=algolia&border_color=1172a6" /></a>
 <a href="https://github.com/gpwolfe/kratky_rg_izero">
   <img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=kratky_rg_izero&theme=algolia&border_color=1172a6" />
 </a>
 <a href="https://github.com/gpwolfe/zns_corpus"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=zns_corpus&theme=algolia&border_color=1172a6" />
 </a>
-<a href="https://github.com/gpwolfe/twitoff-DS41">
-  <img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=twitoff-DS41&theme=algolia&border_color=1172a6" />
-</a>
 
-<a href="https://github.com/gpwolfe/ctf"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=ctf&theme=algolia&border_color=1172a6" />
-</a>
 <br />
 <br />
 

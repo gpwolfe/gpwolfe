@@ -69,8 +69,10 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 
 I write Python scripts to parse output from scientific instruments and software;<br>generate, evaluate and visualize datasets;<br>and ingest data to databases.<br>
 <br>
-My work has been published:<br>
-<a href=https://doi.org/10.1063/5.0163882>ColabFit Exchange</a><br>
+My work has been published:<br>  
+<a href="https://openreview.net/forum?id=b8qZpGJIkw">ColabFit Exchange (NeurIPS 2024)</a><br>
+<a href=https://doi.org/10.1063/5.0163882>ColabFit Exchange (JCP 2023)</a><br>
+<a href="https://doi.org/10.1101/2023.12.06.570415">Cooperativity in RNA chemical probing experiments (preprint)</a><br>
 <a href=https://doi.org/10.1101/2022.07.26.501616>Xist A-repeats</a><br>
 <a href=https://doi.org/10.1101/2023.07.20.549950>lncRNA-RBM15 protein binding</a><br>
 <a href=https://doi.org/10.1101/2023.12.06.570415>RNA structure modulation</a>

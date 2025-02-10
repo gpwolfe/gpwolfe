@@ -42,7 +42,8 @@ wolfe.gregory.p@gmail.com
 ### What I work with:
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
-<a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/linux-%2312100E.svg?logo=linux&style=for-the-badge&logoColor=blue"/></a><br>
+<a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/linux-%2312100E.svg?logo=linux&style=for-the-badge&logoColor=blue"/></a>
+<a target="_blank"><img alt="PySpark" src="https://img.shields.io/badge/PYSPARK-%2312100E.svg?&style=for-the-badge"/></a><br>
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="macOS" src="https://img.shields.io/badge/macOS-%2312100E.svg?logo=macos&style=for-the-badge&logoColor=blue"/></a>
@@ -55,6 +56,8 @@ wolfe.gregory.p@gmail.com
 <a target="_blank"><img alt="Keras" src="https://img.shields.io/badge/Keras-%2312100E.svg?logo=keras&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%2312100E.svg?logo=tensorflow&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-%2312100E.svg?logo=slack&style=for-the-badge&logoColor=blue"/></a>
+<a target="_blank"><img alt="Vast DB" src="https://img.shields.io/badge/Vast%20DB-%2312100E.svg?&style=for-the-badge"/></a><br>
+
   
 
   

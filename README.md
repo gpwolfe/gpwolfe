@@ -70,13 +70,14 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 <div align='center'>
 
 
-I write Python scripts to parse output from scientific instruments and software;<br>generate, evaluate and visualize datasets;<br>and ingest data to databases.<br>
+I write scripts to parse output from scientific instruments and software;<br>generate, evaluate and visualize datasets;<br>and ingest data to databases.<br>
 <br>
-My work has been published:<br>  
-<a href="https://openreview.net/forum?id=b8qZpGJIkw">ColabFit Exchange (NeurIPS 2024)</a><br>
-<a href=https://doi.org/10.1063/5.0163882>ColabFit Exchange (JCP 2023)</a><br>
-<a href="https://doi.org/10.1101/2023.12.06.570415">Cooperativity in RNA chemical probing experiments (preprint)</a><br>
-<a href=https://doi.org/10.1101/2022.07.26.501616>Xist A-repeats</a><br>
-<a href=https://doi.org/10.1101/2023.07.20.549950>lncRNA-RBM15 protein binding</a><br>
-<a href=https://doi.org/10.1101/2023.12.06.570415>RNA structure modulation</a>
+Work in publications:<br>  
+<a href="https://doi.org/10.1093/nar/gkaf290"> **Investigating the interplay between RNA structural dynamics and RNA chemical probing experiments**, _NAR_ (2025)</a></br>
+<a href="https://openreview.net/forum?id=b8qZpGJIkw">**Advancing the ColabFit Exchange towards a Web-scale Data Source for Machine Learning Interatomic Potentials**, _NeurIPS_ (2024)</a><br>
+<a href=https://doi.org/10.1063/5.0163882>**ColabFit exchange: Open-access datasets for data-driven interatomic potentials**, _JCP_ (2023)</a><br>
+<a href="https://doi.org/10.1101/2023.12.06.570415">**Cooperativity in RNA chemical probing experiments**, _bioRxiv_ (preprint)</a><br>
+<a href=https://doi.org/10.1101/2022.07.26.501616>**Conformation and structural dynamics of the Xist lncRNA A-repeats**, _bioRxiv_ (preprint)</a><br>
+<a href=https://doi.org/10.1101/2023.07.20.549950>**Characterization of RBM15 protein binding with long noncoding RNAs**, _bioRxiv_ (preprint)</a><br>
+<a href=https://doi.org/10.1101/2023.12.06.570415>**Cooperativity in RNA chemical probing experiments modulates RNA 2D structure**, _bioRxiv_ (preprint)</a>
 </div>

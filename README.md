@@ -7,18 +7,19 @@
 wolfe.gregory.p@gmail.com
 
 </details>
-<details>
-<summary><b>current projects</b></summary>  
+
+### Current projects
   
 <a href="https://materials.colabfit.org/" target="_blank">The ColabFit Exchange</a>: An online repository to store and access data for machine learning interatomic potentials (MLIPs)  
   
 <a href="https://github.com/colabfit/" target="_blank">ColabFit on GitHub</a>: Tools to access data from / submit data to the ColabFit Exchange
 
 <a href="https://kimreview.org/" target="_blank">KIM REVIEW</a>: Commentaries and discussion on seminal papers in molecular simulation.
-</details>
+<div align='center'>
 
-  
+
 ### What I work with:
+
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/linux-%2312100E.svg?logo=linux&style=for-the-badge&logoColor=blue"/></a>

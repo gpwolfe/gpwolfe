@@ -18,27 +18,6 @@ wolfe.gregory.p@gmail.com
 </details>
 
   
-<div align="center">
-  
-<a href="https://github.com/gpwolfe/colabfit"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=colabfit&theme=graywhite&border_color=101010" />
-</a>
-<a href="https://github.com/gpwolfe/colabfit-tools"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=colabfit-tools&theme=graywhite&border_color=101010" /></a>
-<a href="https://github.com/gpwolfe/kratky_rg_izero">
-  <img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=kratky_rg_izero&theme=graywhite&border_color=101010" />
-</a>
-<a href="https://github.com/gpwolfe/zns_corpus"><img width="400" align="center" valign="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gpwolfe&repo=zns_corpus&theme=graywhite&border_color=101010" />
-</a>
-
-<br />
-<br />
-
-<a>
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gpwolfe&count_private=true&show_icons=true&hide=stars&theme=graywhite&custom_title=Github%20Stats&line_height=30&border_color=101010&card_width=400" /></a> -->
-<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gpwolfe&theme=graywhite&hide=procfile&card_width=400&border_color=101010" /></a>
-<br />
-<br />
-  
-  
 ### What I work with:
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
